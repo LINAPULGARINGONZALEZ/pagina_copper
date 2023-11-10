@@ -1,0 +1,53 @@
+body{
+    background: color #f8f8f8;
+    background-image: url(../imagenes/IMAGEN.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position:inherit;
+
+}
+
+.encabezado{
+ 
+
+}
+.logo{
+    left: 250px;
+    position: relative;
+     height: 200px; 
+     width: 200px;
+     
+
+}
+.ancla{
+    background-color: #0a3c52;
+text-align:center;
+
+
+
+}
+.navegacion{
+    background-color: #0a3c52;
+    position: relative;
+    top: -20px;
+    
+
+   
+    
+}
+
+.menu-principal{
+    display: inline;
+    padding: 10px 10px;
+}
+.lista-menu{
+
+    text-decoration: none;
+    font-size: 20px;
+    color: #f8f8f8;
+    
+    }
+    .ancla{
+
+    }
+    
